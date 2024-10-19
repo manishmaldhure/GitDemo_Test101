@@ -108,5 +108,10 @@ public class StandAloneTest {
 		}
 		
 	}
+	
+	public void print()
+	{
+		System.out.println("updating the line of code..");
+	}
 
 }
